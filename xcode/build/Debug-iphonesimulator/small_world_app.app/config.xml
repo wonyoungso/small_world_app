@@ -1,0 +1,7 @@
+<config>
+    <current_mode>development</current_mode>
+    <development_base_url>http://localhost:3000</development_base_url>
+    <production_base_url>http://smallworld.tiia.kr</production_base_url>
+    <i18n_url>/i18n.json</i18n_url>
+    <creators_url>/creators.json</creators_url>
+</config>
